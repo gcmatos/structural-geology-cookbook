@@ -1,0 +1,4 @@
+# geoCodes
+# REPOSITORY DEDICATED TO STRUCTURAL GEOLOGY CODES
+# CREATED: September 13th 2016
+# AUTHORS: Davi, Thiago e Gabriel
