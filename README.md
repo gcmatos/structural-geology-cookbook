@@ -1,3 +1,9 @@
+---
+layout: page
+title: Structural Geology
+permalink: /structural-geology/
+---
+
 # STRUCTURAL GEOLOGY ALGORITHMS
 
 ### REPOSITORY DEDICATED TO STRUCTURAL GEOLOGY ALGORITHMS
