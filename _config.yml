@@ -16,9 +16,12 @@
 title: Structural Geology Cookbook
 email: #your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a repository that is motherfucking good...
-baseurl: "/structural-geology" # the subpath of your site, e.g. /blog
-url: "http://gcmatos.github.io/structural-geology" # the base hostname & protocol for your site, e.g. http://example.com
+  This is the web site of the Structural Geology's repository where me and the
+  collaborators upload files like scripts and Jupyter notebooks that are somehow
+  important for who is analysing geologic structures cased by brittle deformation
+  such as tectonic faults and natural fractures.
+baseurl: "/structural-geology"
+url: "http://gcmatos.github.io/structural-geology"
 twitter_username: __gcmatos__
 github_username:  gcmatos
 
