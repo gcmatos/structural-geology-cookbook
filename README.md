@@ -5,4 +5,4 @@
 It's pretended to be a collection of recipes in Python and R to help Geoscientists solve problems related to Structural Geology data wrangling, processing and visualization.
 
 #### References
-Allmendinger, R.W., Cardozo, N., Fisher, D.M. 2011 [Structural Geology Algorithms: Vectors and Tensors](https://g.co/kgs/mY3kpE)
+[Structural Geology Algorithms: Vectors and Tensors](https://g.co/kgs/mY3kpE). Allmendinger, R.W., Cardozo, N., Fisher, D.M. 2011.
