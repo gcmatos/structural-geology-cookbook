@@ -5,4 +5,6 @@
 It's pretended to be a collection of recipes in Python and R to help Geoscientists solve problems related to Structural Geology data wrangling, processing and visualization.
 
 #### References
-[Structural Geology Algorithms: Vectors and Tensors](http://www.geo.cornell.edu/geology/faculty/RWA/structural-geology-algorith/). Allmendinger, R.W., Cardozo, N., Fisher, D.M. 2011.
+[Structural Geology Algorithms: Vectors and Tensors](http://www.geo.cornell.edu/geology/faculty/RWA/structural-geology-algorith/). Allmendinger *et al.* 2011.
+
+[Rock Fractures in Geological Processes](https://www.aapg.org/publications/special-publications/books/details/articleid/16538/rock-fractures-in-geological-processes) Agust Gudmundsson 2011.
